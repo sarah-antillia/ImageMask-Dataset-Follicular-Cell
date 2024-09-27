@@ -26,7 +26,9 @@ Please cite these papers in your publications if it helps your research:
   publisher={Elsevier}
 }
 </pre>
-
+License: This data can be freely used for academic purposes. (non-commercial)
+<br>
+<br>
 <h3>2. Download Follicular-Cell</h3>
 
 If you would like to create Follicular Cell ImageMask Dataset by yourself,
