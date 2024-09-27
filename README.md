@@ -4,9 +4,7 @@ This is ImageMask Dataset for Follicular-Cell<a href="https://github.com/bupt-ai
 Hybrid-Model-Enabling-Highly-Efficient-Follicular-Segmentation</a>
 <br>
 The original Follicular-Cell Patch Dataset can be downloaded from the google drive 
-
 <a href="https://drive.google.com/file/d/1t1W7tpKscqLxPApqH3JSP_zsljLHWKxQ/view?usp=sharing">IM_PatchDataset.zip</a>.
-
 <br>
 <br>
 <b>Download Follicular Cell ImageMask-Dataset</b><br>
@@ -14,8 +12,6 @@ You can download our 512x512 pixels Follicular Cell ImageMask-Dataset, derived b
 <a href="https://drive.google.com/file/d/1M2jJGmNw5frlRfExxVQrdnkg-tnmHzvh/view?usp=sharing">
 Follicular-Cell-ImageMask-Dataset.zip</a>
 <br>
-
-
 <h3>1. Dataset Citation</h3>
 Please cite these papers in your publications if it helps your research: 
 <a href="https://www.sciencedirect.com/science/article/pii/S2667102621000036">
